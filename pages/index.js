@@ -6,7 +6,7 @@ export default function Home() {
     <div>
       <h2 className={styles.title}>Home Page</h2>
       <p className={styles.text}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium expedita distinctio inventore sit explicabo pariatur, illo aliquam repellendus nulla ad.</p>
-      <Link href='/portfolio'><a className={styles.btn}>Portfolio</a></Link>
+      <Link href='/ninja'><a className={styles.btn}>Ninja</a></Link>
     </div>
   )
 }
